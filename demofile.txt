@@ -1,0 +1,4 @@
+hello git
+
+steps - 
+1. git init
